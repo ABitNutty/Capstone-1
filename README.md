@@ -1,7 +1,7 @@
 # Capstone-1
 A collection of files for Springboard Data Science Capstone Project #1
 
-Capstone 1 Proposal is the initial proposal for the project. 
+Capstone 1 Proposal is the initial proposal for the project. <br>
 Data_Wrangling.ipynp is a Jupyter Notebok with code that supports data wrangling efforts. 
 DataStory.ipynp is a Jupyter Notebook with code that supports data exploration and insights. 
 Inferential_Statistics.ipynb is a Jupyter Notebook with code that supports statistical analysis of hypothesis generated. 
