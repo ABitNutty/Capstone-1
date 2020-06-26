@@ -1,5 +1,5 @@
 # Capstone-1
-A collection of files for Springboard Data Science Capstone Project #1
+A collection of files for Springboard Data Science Capstone Project -- Real Estate Sale Price Predictor
 
 Capstone 1 Proposal is the initial proposal for the project. <br>
 Data_Wrangling.ipynp is a Jupyter Notebok with code that supports data wrangling efforts. <br>
